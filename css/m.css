@@ -1,0 +1,31 @@
+
+
+h1{
+    width: 100%;
+    height: 50px;   
+}
+    h2{
+        width: 100%;
+        height: 30px;
+        background-color: rgb(216, 130, 69) ; 
+    }
+p{
+    width: 100%;
+    height: 60px;
+    background-color: chocolate;
+}
+a{
+    text-decoration: none;
+}
+nav ul li {
+    background: green;
+    color: chocolate;
+    display: inline-block;
+    padding: 3px 10px;
+    margin: 10px 20px;   
+}
+nav ul li:hover{
+    background: chocolate;
+    color: green;
+    cursor: pointer;
+}
